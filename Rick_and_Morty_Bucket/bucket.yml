@@ -1,0 +1,8 @@
+flows:
+  a0295325-c1e7-4ccd-bfdf-1384843f0bd3: {ver: 1, file: Rick_and_Morty_Flow.snapshot,
+    comments: 'Rick and Morty ELT to extract all chars, locations and episodes and
+      save into csv file', author: anonymous, created: 1680036857248, flowName: Rick
+      and Morty Flow, flowDesc: 'Rick and Morty ELT to extract all chars, locations
+      and episodes and save into csv file'}
+layoutVer: 1
+bucketId: c99fd15d-70cd-43b9-b1fe-b6fcee0e2c87
